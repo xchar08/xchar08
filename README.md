@@ -41,27 +41,10 @@ hackathons, CTFs, and Kaggle.
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=xchar08&theme=dark)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xchar08&langs_count=3)
 
+### Let's Get Connected!
+<a href="https://www.linkedin.com/in/jeremiahpitts/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 ### Thanks for making it this far. Now I'll force-feed you my music taste
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vgsricber7rv5zbrnymszoc6du&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/xchar08)
-<!--
-<div align="left"
-  <span align="left">
-    <a href="https://www.linkedin.com/in/jeremiah-n-pitts/" target="blank">
-      <img align="center" src="images\linkedin-logo.png" alt="" height="30"/>
-    </a>
-  </span>
 
-  <span align="left">
-    <a href="https://grabcad.com/jeremiah.pitts-3" target="blank">
-      <img align="center" src="images\grabcad-logo.jpg" alt="" height="30"/>
-    </a>
-  </span>
-
-  <span align="left">
-    <a href="https://devpost.com/jeremiahnpitts?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="blank">
-      <img align="center" src="images\devpost-logo.png" alt="" height="30" />
-    </a>
-  </span>
-</div>
--->
 <h1></h1>
