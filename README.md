@@ -33,16 +33,18 @@ competitive programming and computer science competitions (Java, Python). I also
 do software dev for my own sake and sanity and would love to collaborate on
 hackathons, CTFs, and Kaggle. 
 
+### Let's Get Connected!
+<a href="https://www.linkedin.com/in/jeremiahpitts/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
   <!--
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=itschoccy&bg_color=45,ffb347,b19cd9&show_icons=true&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
   -->
   
-  ### Stats :)
+ <!-- ### Stats :)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=xchar08&theme=dark)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xchar08&langs_count=3)
+-->
 
-### Let's Get Connected!
-<a href="https://www.linkedin.com/in/jeremiahpitts/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ### Thanks for making it this far. Now I'll force-feed you my music taste
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vgsricber7rv5zbrnymszoc6du&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/xchar08)
