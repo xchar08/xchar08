@@ -17,6 +17,8 @@
 
   learning • machine learning,
   reactjs, swift 
+  hobbies • calisthenics, 
+  coding
 
   repos • 25
   commits • 1574+
