@@ -39,7 +39,6 @@ hackathons, CTFs, and Kaggle.
   
   ### Stats :)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=xchar08&theme=dark)
-
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xchar08&langs_count=3)
 
 ### Thanks for making it this far. Now I'll force-feed you my music taste
