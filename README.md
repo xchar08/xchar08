@@ -36,7 +36,7 @@ hackathons, CTFs, and Kaggle.
 
 ### Let's Get Connected!
 <a href="https://www.linkedin.com/in/jeremiahpitts/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
+<a href="https://devpost.com/xchar08" target="_blank">![Devpost](https://img.shields.io/badge/devpost-%230077B5.svg?style=for-the-badge&logo=devpost&logoColor=white)</a>
   <!--
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=itschoccy&bg_color=45,ffb347,b19cd9&show_icons=true&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
   -->
