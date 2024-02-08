@@ -48,8 +48,9 @@ hackathons, CTFs, and Kaggle.
 ![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=amazonec2&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Code-VueJs-informational?style=flat&logo=vuedotjs&logoColor=white&color=23272a)
 
+![](https://img.shields.io/badge/Framework-VueJs-informational?style=flat&logo=vuedotjs&logoColor=white&color=23272a)
+![](https://img.shields.io/badge/Framework-Hugo-informational?style=flat&logo=hugo&logoColor=white&color=23272a)
 
 ![](https://img.shields.io/badge/OS-Gentoo-informational?style=flat&logo=Gentoo&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/OS-Arch-informational?style=flat&logo=archlinux&logoColor=white&color=23272a)
@@ -63,6 +64,7 @@ hackathons, CTFs, and Kaggle.
 <br>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=23272a)
+
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=23272a)
@@ -71,7 +73,6 @@ hackathons, CTFs, and Kaggle.
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/Tools-Office-informational?style=flat&logo=microsoftoffice&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/Tools-Xorg-informational?style=flat&logo=x.org&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Framework-hugo-informational?style=flat&logo=hugo&logoColor=white&color=23272a)
 
 
 </details>
