@@ -45,6 +45,7 @@ hackathons, CTFs, and Kaggle.
 ![](https://img.shields.io/badge/Code-MsSQL-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/Code-JQL-informational?style=flat&logo=jquery&logoColor=white&color=23272a)
+![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=amazonec2&logoColor=white&color=23272a)
 
 ![](https://img.shields.io/badge/OS-Gentoo-informational?style=flat&logo=Gentoo&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/OS-Arch-informational?style=flat&logo=archlinux&logoColor=white&color=23272a)
