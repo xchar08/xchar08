@@ -48,6 +48,11 @@ hackathons, CTFs, and Kaggle.
 ![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=amazonec2&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=23272a)
+![](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat&logo=tensorflowt&logoColor=white&color=23272a)
+![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=23272a)
+![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=23272a)
+![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=23272a)
+![](https://img.shields.io/badge/Code-SymPy-informational?style=flat&logo=sympy&logoColor=white&color=23272a)
 
 ![](https://img.shields.io/badge/OS-Gentoo-informational?style=flat&logo=Gentoo&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/OS-Arch-informational?style=flat&logo=archlinux&logoColor=white&color=23272a)
@@ -66,14 +71,15 @@ hackathons, CTFs, and Kaggle.
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=23272a)
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=23272a)
+![](https://img.shields.io/badge/Tools-NodeJs-informational?style=flat&logo=nodedotjs&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=23272a)
+![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/Tools-Office-informational?style=flat&logo=microsoftoffice&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/Tools-Xorg-informational?style=flat&logo=x.org&logoColor=white&color=23272a)
-
 
 </details>
 
