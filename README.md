@@ -49,15 +49,15 @@ hackathons, CTFs, and Kaggle.
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=23272a)
 
-![](https://img.shields.io/badge/Framework-VueJs-informational?style=flat&logo=vuedotjs&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Framework-Hugo-informational?style=flat&logo=hugo&logoColor=white&color=23272a)
-
 ![](https://img.shields.io/badge/OS-Gentoo-informational?style=flat&logo=Gentoo&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/OS-Arch-informational?style=flat&logo=archlinux&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=fedora&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=23272a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=23272a)
+
+![](https://img.shields.io/badge/Framework-VueJs-informational?style=flat&logo=vuedotjs&logoColor=white&color=23272a)
+![](https://img.shields.io/badge/Framework-Hugo-informational?style=flat&logo=hugo&logoColor=white&color=23272a)
 
 <details>
 <summary>More Skills</summary>
