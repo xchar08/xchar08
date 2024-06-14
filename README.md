@@ -20,9 +20,9 @@
   hobbies • coding,
   calisthenics
 
-  repos • 25
+  repos • 41
   commits • 1574+
-  issues • 4
+  issues • 2
 
 ```
 
