@@ -22,7 +22,7 @@
 
   repos • 41
   commits • 1574+
-  issues • 2
+  issues • 0
 
 ```
 
