@@ -26,13 +26,11 @@
 
 ```
 
-I'm a STEM student attending school in the USA. I'm interested in coding and all
-computer science related (I also have a knack for mechanical engineering 😗).
-Furthermore, I do frontend web development (HTML, CSS, and JavaScript) and I am
-working towards learning backend (Python & Flask). Moreover, I've dabbled in
-competitive programming and computer science competitions (Java, Python). I also
-do software dev for my own sake and sanity and would love to collaborate on
-hackathons, CTFs, and Kaggle. 
+I am a dedicated STEM student at the University of Texas at Arlington, majoring in Software Engineering and Physics. With a strong foundation in both frontend and backend development, I have a keen interest in applying my skills to innovative projects and real-world challenges. My academic background includes hands-on experience in machine learning, web development, and competitive programming, alongside practical knowledge in mechanical engineering.
+
+In my coding journey, I have delved into various technologies and programming languages, including Java, Python, and JavaScript. I am particularly passionate about exploring the intersections of AI, data science, and software engineering. My projects range from developing neural networks with high accuracy to contributing to collaborative hackathons and CTFs.
+
+Beyond coding, I am committed to personal growth and continuous learning. Whether it’s through competitive programming, science writing, or exploring new technologies, I thrive on pushing boundaries and expanding my skill set. I am eager to connect with like-minded professionals and collaborate on exciting opportunities that drive innovation and foster creative problem-solving.
 
 ### 💼 Skills
 
