@@ -98,6 +98,6 @@ hackathons, CTFs, and Kaggle.
 
 
 ### Thanks for making it this far. Now I'll force-feed you my music taste
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vgsricber7rv5zbrnymszoc6du&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/xchar08)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vgsricber7rv5zbrnymszoc6du&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/xchar08)
 
 <h1></h1>
