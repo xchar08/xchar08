@@ -25,6 +25,7 @@
   issues • 0
 
 ```
+### 🤵 About Me 
 
 I am a dedicated STEM student at the University of Texas at Arlington, majoring in Software Engineering and Physics. With a strong foundation in both frontend and backend development, I have a keen interest in applying my skills to innovative projects and real-world challenges. My academic background includes hands-on experience in machine learning, web development, and competitive programming, alongside practical knowledge in mechanical engineering.
 
