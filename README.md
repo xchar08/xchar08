@@ -11,16 +11,15 @@
 ```haskell
   xchar08@github 
   --------------------------
-  os • gentoo linux 
-  shell • alacritty
-  dms • kde plasma
+  os • arch linux
+  shell • kitty
+  dms • hyprland
 
-  learning • machine learning,
-  reactjs, swift 
+  learning • machine learning
   hobbies • coding,
   calisthenics
 
-  repos • 41
+  repos • 49
   commits • 2900+
   issues • 0
 
