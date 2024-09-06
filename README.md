@@ -21,7 +21,8 @@
 
   repos • 49
   commits • 2900+
-  issues • 0
+  issues • 1
+  
 
 ```
 ### 🤵 About Me 
