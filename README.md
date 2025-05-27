@@ -11,16 +11,16 @@
 ```haskell
   xchar08@github 
   --------------------------
-  os • arch linux
+  os • arch linux, win11
   shell • kitty
   dms • hyprland
 
-  learning • machine learning
+  learning • rust
   hobbies • coding,
-  calisthenics
+  calisthenics, mma
 
-  repos • 49
-  commits • 2900+
+  repos • 89
+  commits • 3600+
   issues • 1
   
 
