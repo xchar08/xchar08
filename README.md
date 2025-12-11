@@ -90,7 +90,7 @@ const achievements = {
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=xchar08&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xchar08&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xchar08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
@@ -106,9 +106,13 @@ const achievements = {
 
 ---
 
+<div align="center">
+
 ## 🎵 Currently Vibing To
 
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31vgsricber7rv5zbrnymszoc6du&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify.com)
+
+</div>
 
 ---
 
