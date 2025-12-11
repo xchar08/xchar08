@@ -90,8 +90,6 @@ const achievements = {
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=xchar08&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/top-langs/?username=xchar08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
 </div>
 
 ---
