@@ -1,102 +1,70 @@
-<h1 align="center">
-  <i> Hey! Welcome to my page!</i>
-</h1>
+<div align="center">
 
-```sh 
-  ~/xchar08: fetch.sh 
-```
+# 👋 Hey, I'm Jeremiah Pitts
 
-<img src="gifs\lofi-room.gif" width="500px" img align="left"/>
+### Software Engineer | ML Researcher | Physics @ UT Arlington
 
-```haskell
-  xchar08@github 
-  --------------------------
-  os • arch linux, win11
-  shell • kitty
-  dms • hyprland
+<a href="https://www.linkedin.com/in/jeremiahpitts/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/xchar08"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/xchar08"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://devpost.com/xchar08"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" /></a>
 
-  learning • rust
-  hobbies • coding,
-  calisthenics, mma
+</div>
 
-  repos • 89
-  commits • 3600+
-  issues • 0
-  
+---
 
-```
-### 🤵 About Me 
+<img src="gifs/lofi-room.gif" width="400px" align="right"/>
 
-I am a dedicated STEM student at the University of Texas at Arlington, majoring in Software Engineering and Physics and minoring in Mathematics. With a strong foundation in both frontend and backend development, I have a keen interest in applying my skills to innovative projects and real-world challenges. My academic background includes hands-on experience in machine learning, web development, and competitive programming, alongside practical knowledge in mechanical engineering.
+## 🚀 About Me
 
-In my coding journey, I have delved into various technologies and programming languages, including Java, Python, and JavaScript. I am particularly passionate about exploring the intersections of AI, data science, and software engineering. My projects range from developing neural networks with high accuracy to contributing to collaborative hackathons and CTFs.
+I'm a **Software Engineering & Physics double major** at UT Arlington with a passion for building AI-driven solutions and exploring the intersection of machine learning, cybersecurity, and software development [file:1].
 
-Beyond coding, I am committed to personal growth and continuous learning. Whether it’s through competitive programming, science writing, or exploring new technologies, I thrive on pushing boundaries and expanding my skill set. I am eager to connect with like-minded professionals and collaborate on exciting opportunities that drive innovation and foster creative problem-solving.
+Currently working as an **ML Researcher at CERN ATLAS Project** and **Founder/CEO of Azalea**, where I'm architecting technical infrastructure for 6+ concurrent AI applications including computer vision fitness platforms and smart glasses solutions [file:1].
 
-### 💼 Skills
+**What I'm up to:**
+- 🔬 ML Research at CERN ATLAS & IDIR Lab
+- 🏢 Previously: Goldman Sachs Internal Audit, Ericsson AI/ML Co-Op
+- 🚀 Building cutting-edge AI applications at Azalea
+- 🤖 Developing custom CTF platforms and cybersecurity tools
+- 🏋️ Training calisthenics & MMA when not coding
 
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Cpp&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Code-bash-informational?style=flat&logo=bash&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=Html&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Code-MsSQL-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Code-JQL-informational?style=flat&logo=jquery&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=amazonec2&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat&logo=tensorflowt&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Code-SymPy-informational?style=flat&logo=sympy&logoColor=white&color=23272a)
+<br clear="right"/>
 
-![](https://img.shields.io/badge/OS-Gentoo-informational?style=flat&logo=Gentoo&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/OS-Arch-informational?style=flat&logo=archlinux&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=fedora&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=23272a)
+---
 
-![](https://img.shields.io/badge/Framework-VueJs-informational?style=flat&logo=vuedotjs&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Framework-Hugo-informational?style=flat&logo=hugo&logoColor=white&color=23272a)
+## 💻 Tech Stack
 
-<details>
-<summary>More Skills</summary>
-<br>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=23272a)
+### ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Tools-NodeJs-informational?style=flat&logo=nodedotjs&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Tools-Office-informational?style=flat&logo=microsoftoffice&logoColor=white&color=23272a)
-![](https://img.shields.io/badge/Tools-Xorg-informational?style=flat&logo=x.org&logoColor=white&color=23272a)
+### Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-</details>
+### Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Let's Get Connected!
-<a href="https://www.linkedin.com/in/jeremiahpitts/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://devpost.com/xchar08" target="_blank">![Devpost](https://img.shields.io/badge/devpost-%230077B5.svg?style=for-the-badge&logo=devpost&logoColor=white)</a>
-<a href="https://leetcode.com/xchar08" target="_blank">![Leetcode](https://img.shields.io/badge/leetcode-%230077B5.svg?style=for-the-badge&logo=leetcode&logoColor=white)</a>
-  <!--
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=itschoccy&bg_color=45,ffb347,b19cd9&show_icons=true&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
-  -->
-  
- <!-- ### Stats :)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=xchar08&theme=dark)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xchar08&langs_count=3)
--->
+---
 
+## 🏆 Highlights
 
-### Thanks for making it this far. Now I'll force-feed you my music taste
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vgsricber7rv5zbrnymszoc6du&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/xchar08)
-
-<h1></h1>
