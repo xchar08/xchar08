@@ -13,13 +13,13 @@
 
 ---
 
-<img src="gifs/lofi-room.gif" width="400px" align="right"/>
-
 ## 🚀 About Me
 
-I'm a **Software Engineering & Physics double major** at UT Arlington with a passion for building AI-driven solutions and exploring the intersection of machine learning, cybersecurity, and software development [file:1].
+<img src="gifs/lofi-room.gif" width="400px" align="right" style="margin-left: 20px;"/>
 
-Currently working as an **ML Researcher at CERN ATLAS Project** and **Founder/CEO of Azalea**, where I'm architecting technical infrastructure for 6+ concurrent AI applications including computer vision fitness platforms and smart glasses solutions [file:1].
+I'm a **Software Engineering & Physics double major** at UT Arlington with a passion for building AI-driven solutions and exploring the intersection of machine learning, cybersecurity, and software development.
+
+Currently working as an **ML Researcher at CERN ATLAS Project** and **Founder/CEO of Azalea**, where I'm architecting technical infrastructure for 6+ concurrent AI applications including computer vision fitness platforms and smart glasses solutions.
 
 **What I'm up to:**
 - 🔬 ML Research at CERN ATLAS & IDIR Lab
@@ -88,9 +88,9 @@ const achievements = {
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xchar08&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=xchar08&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xchar08&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=xchar08&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
