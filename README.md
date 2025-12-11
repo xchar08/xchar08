@@ -68,3 +68,54 @@ Currently working as an **ML Researcher at CERN ATLAS Project** and **Founder/CE
 
 ## 🏆 Highlights
 
+```
+const achievements = {
+    research: ["CERN ATLAS ML Researcher", "IDIR Lab Researcher", "NASA L'SPACE Lead Systems Engineer"],
+    experience: ["Goldman Sachs Intern", "Ericsson AI/ML Co-Op", "Founder @ Azalea"],
+    competitions: ["NCL Platinum Division 2024", "2x CyberStart National Semifinalist"],
+    leadership: ["Cybersecurity Club Research Officer", "ACM Event Coordinator", "UTA Linux Club Founder"],
+    metrics: {
+        repos: 89,
+        commits: "3600+",
+        projects: "6+ concurrent AI applications"
+    }
+};
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xchar08&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xchar08&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🧪 Applying ML algorithms to CERN particle physics data
+- 🤖 Building AI-powered health tracking and computer vision platforms
+- 🔐 Developing cybersecurity tools and CTF challenges
+- 📚 Deepening expertise in Rust and advanced ML architectures
+- 🌌 Exploring the intersection of physics and computational science
+
+---
+
+## 🎵 Currently Vibing To
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31vgsricber7rv5zbrnymszoc6du&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify.com)
+
+---
+
+<div align="center">
+
+### 💡 "The best way to predict the future is to invent it." - Alan Kay
+
+![Profile Views](https://komarev.com/ghpvc/?username=xchar08&color=blueviolet&style=for-the-badge)
+
+</div>
