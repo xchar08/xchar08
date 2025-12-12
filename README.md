@@ -114,7 +114,7 @@ const achievements = {
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### 💡 "The best way to predict the future is to invent it." - Alan Kay
 
