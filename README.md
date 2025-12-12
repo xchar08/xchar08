@@ -86,7 +86,7 @@ const achievements = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=xchar08&theme=tokyonight&hide_border=true)
 
@@ -104,7 +104,7 @@ const achievements = {
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## 🎵 Currently Vibing To
 
